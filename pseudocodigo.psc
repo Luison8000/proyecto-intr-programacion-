@@ -12,8 +12,8 @@ Algoritmo Pseudo_menu
 					Escribir 'Menu organizador'
 					Escribir '1 Registrar cantidad de canchas'
 					Escribir '2 Registrar sparrings disponibles'
-					Escribir '4 Registrar jugadores (usuario y contraseña)'
-					Escribir '5 Volver al menú principal'
+					Escribir '4 Registrar jugadores (usuario y contraseÃ±a)'
+					Escribir '5 Volver al menÃº principal'
 					Leer opcion_organizador
 					Segun opcion_organizador  Hacer
 						1:
@@ -22,7 +22,7 @@ Algoritmo Pseudo_menu
 						2:
 							Escribir 'Registrar cantidad de sparrings'
 						3:
-							Escribir 'Registrar jugador con usuario y contraseña'
+							Escribir 'Registrar jugador con usuario y contraseÃ±a'
 						4:
 							Escribir 'regresar al menu principal'
 					FinSegun
@@ -30,7 +30,7 @@ Algoritmo Pseudo_menu
 			2:
 				Repetir
 					Escribir 'Menu Jugador'
-					Escribir 'Ingrese su usuario y contraseña'
+					Escribir 'Ingrese su usuario y contraseÃ±a'
 					Leer usuario
 					Leer contrasena
 					Escribir '1 Registrar entrenador'
@@ -46,7 +46,7 @@ Algoritmo Pseudo_menu
 						3:
 							Escribir 'Reservar cancha (1 jugador o 2)'
 						4:
-							Escribir 'Indicar cuántas botellas de agua'
+							Escribir 'Indicar cuÃ¡ntas botellas de agua'
 						5:
 							Escribir 'regresar al menu pricipal'
 					FinSegun
